@@ -1,0 +1,14 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "AzureWebJobsDashboard": "UseDevelopmentStorage=true",
+    "CWApiKey": "190b555b871d812dc76999b4c104dbd6f73af18dcd3ec29df270690cfba984e8",
+    "CWRootUri": "https://clockwisemd.com",
+    "DocDBConnectionString": "AccountEndpoint=https://banner-ucpoc.documents.azure.com:443/;AccountKey=PuncmRaIDNmzuPDGvopb9QnW7nm8FcblPI7IpolY47a1RqOPErWlw04cVopZjNvVxmFJ1HSZzhkDLVxC9EeTzw==",
+    "DocDBDatabase": "banneridg",
+    "DocDBCollection": "ucfacilities",
+    "WaitTimesUpdatesQueue": "waittimesupdates",
+    "GroupIdList": "269,270,271,272,273,274,275,276"
+  }
+}
